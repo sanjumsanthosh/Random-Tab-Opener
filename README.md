@@ -5,7 +5,7 @@
      and <a href="https://tailwindcss.com/">Tailwind CSS</a></p>
 </div>
 
-![image.png](./assets/image.png)
+![image.png](./assets/1678153844077-image.png)
 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
@@ -24,9 +24,9 @@ $ pnpm run dev
 
 ## Screenshots
 
-![image.png](./assets/1678152869391-image.png)
+![image.png](./assets/1678153874960-image.png)
 
-![image.png](./assets/1678152885928-image.png)
+![image.png](./assets/1678153892845-image.png)
 
 ## License
 
