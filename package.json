@@ -1,0 +1,38 @@
+{
+  "name": "random-tab-opener",
+  "version": "1.0.0",
+  "description": "A next js app to open random tabs.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjumsanthosh/Random-Tab-Opener.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjumsanthosh/Random-Tab-Opener/issues"
+  },
+   "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "faker": "^6.6.6",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.3",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.4",
+    "typescript": "4.9.4"
+  },
+  "homepage": "https://github.com/sanjumsanthosh/Random-Tab-Opener#readme"
+}
