@@ -83,7 +83,7 @@ const Home: NextPage = () => {
           <button
             className=' bg-blue-500 text-white font-bold py-2 px-4 rounded-lg p-4'
             onClick={handleOpenTabs}
-          >Button</button>
+          >Generate</button>
         </div>
       </section>
 
